@@ -8,8 +8,10 @@ This is an old project i quickly remade to fix performance issues.
 ![image](https://user-images.githubusercontent.com/76534455/153722632-47cec189-7777-4978-bb2c-b45f318273ae.png)
 
 # Requirements
+```console
 aiohttp==3.7.4.post0
 PyQt5==5.15.6
+```
 
 # License
 Repository under GPL-2.0 License
