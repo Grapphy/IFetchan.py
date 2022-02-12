@@ -156,7 +156,7 @@ class Ui_MainWindow(object):
         brush = QtGui.QBrush(QtGui.QColor(41, 41, 41))
         brush.setStyle(QtCore.Qt.SolidPattern)
         palette.setBrush(QtGui.QPalette.Active, QtGui.QPalette.Base, brush)
-        brush = QtGui.QBrush(QtGui.QColor(41, 41, 41))
+        brush = QtGui.QBrush(QtGui.QColor(255, 255, 255))
         brush.setStyle(QtCore.Qt.SolidPattern)
         palette.setBrush(QtGui.QPalette.Active, QtGui.QPalette.Window, brush)
         brush = QtGui.QBrush(QtGui.QColor(128, 128, 128))
@@ -172,7 +172,7 @@ class Ui_MainWindow(object):
         brush = QtGui.QBrush(QtGui.QColor(240, 240, 240))
         brush.setStyle(QtCore.Qt.SolidPattern)
         palette.setBrush(QtGui.QPalette.Inactive, QtGui.QPalette.Button, brush)
-        brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
+        brush = QtGui.QBrush(QtGui.QColor(144, 144, 144))
         brush.setStyle(QtCore.Qt.SolidPattern)
         palette.setBrush(QtGui.QPalette.Inactive, QtGui.QPalette.Text, brush)
         brush = QtGui.QBrush(QtGui.QColor(255, 255, 255))
@@ -181,7 +181,7 @@ class Ui_MainWindow(object):
         brush = QtGui.QBrush(QtGui.QColor(240, 240, 240))
         brush.setStyle(QtCore.Qt.SolidPattern)
         palette.setBrush(QtGui.QPalette.Inactive, QtGui.QPalette.Window, brush)
-        brush = QtGui.QBrush(QtGui.QColor(0, 0, 0, 128))
+        brush = QtGui.QBrush(QtGui.QColor(255, 255, 255, 240))
         brush.setStyle(QtCore.Qt.SolidPattern)
         palette.setBrush(
             QtGui.QPalette.Inactive, QtGui.QPalette.PlaceholderText, brush
@@ -203,7 +203,7 @@ class Ui_MainWindow(object):
         brush = QtGui.QBrush(QtGui.QColor(41, 41, 41))
         brush.setStyle(QtCore.Qt.SolidPattern)
         palette.setBrush(QtGui.QPalette.Disabled, QtGui.QPalette.Window, brush)
-        brush = QtGui.QBrush(QtGui.QColor(0, 0, 0, 128))
+        brush = QtGui.QBrush(QtGui.QColor(20, 20, 20, 128))
         brush.setStyle(QtCore.Qt.SolidPattern)
         palette.setBrush(
             QtGui.QPalette.Disabled, QtGui.QPalette.PlaceholderText, brush
