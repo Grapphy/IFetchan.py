@@ -4,8 +4,8 @@ IFetchan.py is an image viewer for 4chan built with PyQt. Allows fetching all fi
 This is an old project i quickly remade to fix performance issues.
 
 # Screenshots
-![image](https://user-images.githubusercontent.com/76534455/153722268-d397406d-316a-4b1b-a566-e13ddc170e25.png)
-![image](https://user-images.githubusercontent.com/76534455/153722289-48caec96-843b-4a97-b4ef-15fa784630f7.png)
+![image](https://user-images.githubusercontent.com/76534455/153722619-cb1b8d96-6ba7-4080-a736-c69481bdf508.png)
+![image](https://user-images.githubusercontent.com/76534455/153722632-47cec189-7777-4978-bb2c-b45f318273ae.png)
 
 # Requirements
 aiohttp==3.7.4.post0
